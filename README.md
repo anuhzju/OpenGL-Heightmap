@@ -13,8 +13,11 @@ https://annazhu.myportfolio.com/opengl-heightmap-implementation
 This program takes in black and white jpeg images and visualizes it as a heightmap. It has four modes, activated by these corresponding keys:
 
 "1" - Vertex Mode: displays each pixel as a point
+
 "2" - Wireframe Mode: displays a "grid" of horizontal and vertical lines connecting the pixels
+
 "3" - Triangle Mode (flat): displays a surface produced by triangles
+
 "4" - Triangle Mode (Smooth): displays a smoothed surface produced through averaging
 
 
