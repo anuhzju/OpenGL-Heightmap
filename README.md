@@ -1,6 +1,8 @@
 CSCI-420 Computer Graphics
-Assignment #1 - Heightmap Visualization
+Assignment #1: Heightmap Visualization
 Anna Zhu
+
+https://annazhu.myportfolio.com/opengl-heightmap-implementation
 
 This program takes in black and white jpeg images and visualizes it as a heightmap. It has four modes, activated by these corresponding keys:
 
